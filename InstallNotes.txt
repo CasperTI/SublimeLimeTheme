@@ -1,0 +1,12 @@
+ git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda" 
+
+Soda isn't mine, but goes great with it. All credit to the Soda developers
+
+
+In user preferences, set as following;
+
+{
+	"color_scheme": "Packages/SublimeHacker/Lime Hacker.tmTheme",
+	"font_size": 11,
+	"theme": "Soda Dark 3.sublime-theme"
+}
