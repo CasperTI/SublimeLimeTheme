@@ -1,1 +1,2 @@
-#SublimeHackerTheme a custom theme for sublime, bound to change 
+#SublimeLimeTheme
+# A lime-purple theme for Sublime 3
