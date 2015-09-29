@@ -1,7 +1,0 @@
- git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"
-
- {
-	"color_scheme": "Packages/User/SublimeHacker/Lime Hacker.tmTheme",
-	"font_size": 11,
-	"theme": "Soda Dark 3.sublime-theme"
-}
