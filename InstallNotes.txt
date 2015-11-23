@@ -6,7 +6,7 @@ Soda isn't mine, but goes great with it. All credit to the Soda developers
 In user preferences, set as following;
 
 {
-	"color_scheme": "Packages/SublimeHacker/Lime Hacker.tmTheme",
+	"color_scheme": "Packages/SublimeLimeTheme/Lime Hacker.tmTheme",
 	"font_size": 11,
 	"theme": "Soda Dark 3.sublime-theme"
 }
