@@ -1,6 +1,13 @@
- git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda" 
+Open sublime text packages directory, and clone this repository into it
+
+next, use the following command;
+
+git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda" 
+
+to install soda to sublime
 
 Soda isn't mine, but goes great with it. All credit to the Soda developers
+
 
 
 In user preferences, set as following;
@@ -10,3 +17,5 @@ In user preferences, set as following;
 	"font_size": 11,
 	"theme": "Soda Dark 3.sublime-theme"
 }
+
+After saving the preferences, you're good to go!
